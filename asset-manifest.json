@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-form-for-person/static/css/main.4ee6e70a.css",
+    "main.js": "/react-form-for-person/static/js/main.9ed5f768.js",
+    "static/js/787.24fe3488.chunk.js": "/react-form-for-person/static/js/787.24fe3488.chunk.js",
+    "index.html": "/react-form-for-person/index.html",
+    "main.4ee6e70a.css.map": "/react-form-for-person/static/css/main.4ee6e70a.css.map",
+    "main.9ed5f768.js.map": "/react-form-for-person/static/js/main.9ed5f768.js.map",
+    "787.24fe3488.chunk.js.map": "/react-form-for-person/static/js/787.24fe3488.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ee6e70a.css",
+    "static/js/main.9ed5f768.js"
+  ]
+}
